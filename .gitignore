@@ -1,0 +1,12 @@
+#python
+.venv/
+__pycache__/
+*.pyc
+
+#hidden
+.env
+
+#os / editor clutter
+.DS_Store
+.vscode/
+
