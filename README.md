@@ -1,4 +1,4 @@
-#DocQuery
+# DocQuery
 
 AI powered document Q&a system: upload documents, ask questions and get answers with citations
 
